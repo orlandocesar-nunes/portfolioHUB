@@ -38,3 +38,19 @@ Estágio profissional na área de Engenharia de Software ou relacionados. Busca 
 * Processamento Digital de Imagens com Software Livre (2026)
 * Inglês - Intermediário
   * Foco em implementação, estruturação e depuração de códigos utilizando lógicas condicionais.
+
+---
+
+## 💻 Projetos Acadêmicos e Profissionais
+
+### Lógica de Programação e Algoritmos em Python
+Durante o meu 1º semestre de Engenharia de Software no CEUB, desenvolvi uma série de scripts focados em lógica matemática, estruturação de dados e resolução de problemas. 
+
+**Principais implementações do projeto:**
+* **Calculadora Interativa:** Sistema que simula uma calculadora com as quatro operações aritméticas básicas, aplicando estruturas condicionais encadeadas e validação de entrada de dados.
+* **Sistemas de Análise e Processamento:** Scripts para processamento contínuo de dados em laço de repetição (`while`), capazes de ler múltiplas entradas, extrair médias e filtrar categorias (aprovados/reprovados, números pares/ímpares).
+* **Gerador de Sequências e Progressões:** Algoritmos desenvolvidos com laços de repetição (`for`) e manipulação de parâmetros da função `range` para gerar progressões numéricas dinâmicas (crescentes, decrescentes e múltiplos customizados).
+
+[🔗 Clique aqui para visualizar a documentação completa dos códigos](./projetos-python.pdf)
+
+---
