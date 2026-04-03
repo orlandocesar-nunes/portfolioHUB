@@ -1,6 +1,6 @@
 # portfolioHUB
 
-<img src="sua-foto.jpg" alt="Foto Profissional" width="150" style="border-radius: 50%;">
+<img src="eur.jpg" alt="Foto Profissional" width="150" style="border-radius: 50%;">
 
 ## 👤 Perfil Pessoal
 
