@@ -38,8 +38,3 @@ Estágio profissional na área de Engenharia de Software ou relacionados. Busca 
 * Processamento Digital de Imagens com Software Livre (2026)
 * Inglês - Intermediário
   * Foco em implementação, estruturação e depuração de códigos utilizando lógicas condicionais.
-
-### Formação Complementar e Idiomas
-* Introdução ao Uso da Inteligência Artificial (2026)
-* Processamento Digital de Imagens com Software Livre (2026)
-* Inglês (Intermediário)
