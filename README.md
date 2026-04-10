@@ -1,6 +1,6 @@
 # 🚀 Portfólio de Engenharia de Software - Orlando César
 
-Este espaço foi estruturado para apresentar minha trajetória profissional e acadêmica. [cite_start]Aqui, documento e compartilho projetos que refletem minha capacidade de unir pensamento analítico, pesquisa estruturada e aplicação prática na resolução de problemas complexos. [cite: 1, 3]
+Este espaço foi estruturado para apresentar minha trajetória profissional e acadêmica. Aqui, documento e compartilho projetos que refletem minha capacidade de unir pensamento analítico, pesquisa estruturada e aplicação prática na resolução de problemas complexos.
 
 ---
 
@@ -11,18 +11,18 @@ Atualmente graduando em **Engenharia de Software no CEUB**, possuo uma afinidade
 
 ## 📂 Documentação Profissional
 * [📄 **Currículo Profissional (PDF)**](./curriculo-orlando.pdf)
-* [💼 **Perfil no LinkedIn**](https://www.linkedin.com/in/seu-perfil-aqui)
+* [💼 **Perfil no LinkedIn**](https://www.linkedin.com/in/orlandocesar-nunes) (Verifique se este é o seu link correto)
 
 ---
 
 ## 💻 Projetos de Lógica e Programação (Python)
 
-[cite_start]Durante o semestre, desenvolvi uma série de algoritmos para resolver problemas de processamento de dados e cálculos matemáticos. [cite: 2, 4]
+Durante o semestre, desenvolvi uma série de algoritmos para resolver problemas de processamento de dados e cálculos matemáticos.
 
-**Destaques técnica:**
-* [cite_start]**Estruturas Condicionais:** Implementação de calculadoras e validadores de notas. [cite: 4]
-* [cite_start]**Laços de Repetição (While/For):** Sistemas de análise de médias, contagem de múltiplos e progressões numéricas. [cite: 2, 4]
-* [cite_start]**Tratamento de Dados:** Filtros de paridade (pares/ímpares) e acumuladores dinâmicos. [cite: 2, 4]
+**Destaques técnicos:**
+* **Estruturas Condicionais:** Implementação de calculadoras interativas com operações básicas e tratamento de erros (divisão por zero).
+* **Laços de Repetição (While/For):** Sistemas para análise de notas escolares, cálculo de médias aritméticas e processamento de dados com sentinelas.
+* **Tratamento de Sequências:** Algoritmos para geração de progressões numéricas (crescentes/decrescentes) e filtragem de múltiplos ou paridade.
 
 👉 [🔗 **Clique aqui para ver a Documentação Completa dos Códigos (PDF)**](./projetos_python.pdf)
 
@@ -30,9 +30,9 @@ Atualmente graduando em **Engenharia de Software no CEUB**, possuo uma afinidade
 
 ## 🛠️ Habilidades e Competências
 
-Apresento abaixo um resumo das minhas competências técnicas e comportamentais (Soft Skills) através de uma apresentação interativa.
+Apresento abaixo um resumo das minhas competências técnicas (Hard Skills) e comportamentais (Soft Skills) através de uma apresentação interativa.
 
-[🎨 **Clique aqui para visualizar a minha apresentação de Habilidades e Competências**](https://www.canva.com/design/DAHF1Y5vZpM/h_nSjKXd68rTRhDcnz9vPg/view)
+[🎨 **Clique aqui para visualizar a minha apresentação de Habilidades e Competências no Canva**](https://www.canva.com/design/DAHF1Y5vZpM/h_nSjKXd68rTRhDcnz9vPg/view)
 
 ---
 
@@ -45,5 +45,4 @@ Apresento abaixo um resumo das minhas competências técnicas e comportamentais 
 ---
 
 ### 📫 Contacto
-* **E-mail:** [Seu E-mail aqui]
 * **GitHub:** [orlandocesar-nunes](https://github.com/orlandocesar-nunes)
