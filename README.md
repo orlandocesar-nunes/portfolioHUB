@@ -3,7 +3,7 @@
 <div align="center">
   <img src="eur.jpg" alt="Orlando César" width="160" style="border-radius: 50%; border: 3px solid #007acc;">
   <h1>Orlando César Nunes de Oliveira</h1>
-  <p><i>Estudante de Engenharia de Software no CEUB | Desenvolvedor Python em Formação</i></p>
+  <p><i>Estudante de Engenharia de Software no CEUB | Desenvolvedor em Formação</i></p>
 
   <a href="https://www.linkedin.com/in/orlando-cesar-nunes-de-oliveira-5691033b4/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -15,80 +15,96 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
-Atualmente no 1º semestre de Engenharia de Software no **CEUB**, meu foco está na construção de fundamentos sólidos em lógica de programação e arquitetura de sistemas. Venho de uma transição focada em análise crítica e resolução de problemas complexos, onde utilizo a lógica matemática como base para o desenvolvimento de software.
+## 👨‍💻 Sobre o Meu Perfil Profissional
 
-Meu objetivo atual é aplicar o conhecimento acadêmico em ambientes práticos, contribuindo para projetos de código aberto e buscando minha primeira oportunidade no mercado de tecnologia como estagiário.
+Atualmente a frequentar o 1º semestre de **Engenharia de Software no CEUB**, o meu percurso é impulsionado por uma forte afinidade com sistemas complexos e pela aplicação rigorosa do pensamento analítico. A minha transição e dedicação à área tecnológica nascem da vontade de resolver problemas reais através de código limpo, estruturado e escalável.
+
+Acredito convictamente que a base de um software de excelência reside numa lógica matemática e algorítmica sólida. Por esse motivo, dedico-me profundamente à construção de scripts que vão além do simples funcionamento, focando-me na otimização de recursos e na prevenção de falhas (tratamento de exceções). 
+
+**O meu objetivo a curto prazo:** Integrar uma equipa dinâmica de desenvolvimento como estagiário, onde possa aplicar os meus conhecimentos em Python, contribuir para projetos desafiantes e absorver a experiência de profissionais seniores, agregando valor através da minha capacidade de pesquisa e resolução de problemas.
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
-Aqui estão as tecnologias e ferramentas que utilizo no meu dia a dia de estudos:
+## 🛠️ Tecnologias, Ferramentas e Competências Técnicas
 
-| Categoria | Tecnologias |
+Abaixo, detalho o meu ecossistema de trabalho e as tecnologias que utilizo para transformar lógica abstrata em soluções funcionais:
+
+| Categoria | Tecnologias e Conceitos Dominados |
 | :--- | :--- |
-| **Linguagens** | Python (Foco em Lógica e Automação) |
-| **Versionamento** | Git, GitHub |
-| **Ferramentas** | VS Code, Google Colab, Markdown |
-| **IA & Dados** | Prompt Engineering, Processamento de Imagens |
+| **Linguagens de Programação** | `Python 3` (Foco em Lógica, Automação e Processamento de Dados) |
+| **Arquitetura e Algoritmos** | Estruturas de Controlo (If/Else), Laços de Repetição Iterativos (For/While), Manipulação de Sequências. |
+| **Versionamento e Deploy** | `Git`, `GitHub` (Gestão de repositórios, versionamento semântico, Markdown) |
+| **Ambientes de Desenvolvimento**| `VS Code`, `Google Colab`, `Jupyter Notebooks` |
+| **Conhecimentos Adicionais** | Prompt Engineering (IA), Processamento Digital de Imagens (Software Livre) |
 
 ---
 
-## 💻 Projetos em Destaque (Acadêmicos)
+## 💻 Projetos em Destaque (Engenharia e Lógica)
 
-### 🐍 Ecossistema de Lógica com Python
-Este repositório centraliza scripts desenvolvidos para resolver desafios de lógica clássica e manipulação de dados. Não são apenas exercícios, mas a base do meu raciocínio algorítmico.
+### 🐍 Ecossistema de Lógica Estruturada com Python
+Este repositório não é apenas um conjunto de exercícios académicos, mas sim o alicerce do meu raciocínio como Engenheiro de Software. Documentei e estruturei scripts que resolvem desafios de manipulação de dados e cálculos matemáticos.
 
-* **Calculadora Multioperações:** * *O que faz:* Executa as quatro operações básicas com tratamento de exceção.
-    * *Diferencial técnico:* Implementação de validações condicionais (`if/elif/else`) para evitar erros em tempo de execução, como a divisão por zero.
-* **Engine de Análise Escolar:**
-    * *O que faz:* Processa uma massa de dados de estudantes via loops de repetição.
-    * *Diferencial técnico:* Uso de acumuladores e contadores dinâmicos para gerar relatórios de média geral e taxas de aprovação/reprovação automaticamente.
-* **Algoritmos de Paridade e Sequenciamento:**
-    * *O que faz:* Filtra e categoriza números em grandes listas de entrada.
-    * *Diferencial técnico:* Manipulação de sequências numéricas (`range`) e uso do operador de módulo para separação lógica de dados pares e ímpares.
+**1. Engine de Análise Escolar e Processamento de Lotes:**
+* **O Desafio:** Criar um sistema capaz de ler continuamente um volume indefinido de notas de alunos, calculando o desempenho global sem interrupções.
+* **A Solução Técnica:** Implementação de sentinelas (flags de paragem como `-1`) dentro de laços de repetição `while`. Utilização de acumuladores e contadores dinâmicos na memória para gerar relatórios de média geral e taxas de aprovação/reprovação automaticamente, sem necessidade de armazenar todos os dados numa lista pesada.
 
-👉 [**Acesse a Documentação Técnica Completa (PDF)**](./projetos-python.pdf)
+**2. Calculadora Multioperações com Prevenção de Falhas:**
+* **O Desafio:** Desenvolver uma interface de cálculo que não apenas execute as operações, mas que seja à prova de erros do utilizador.
+* **A Solução Técnica:** Arquitetura construída com validações condicionais encadeadas (`if/elif/else`). O grande diferencial foi a implementação de lógicas de bloqueio para impedir falhas críticas em tempo de execução, como o erro fatal matemático de divisão por zero.
+
+**3. Algoritmos de Paridade e Sequenciamento Analítico:**
+* **O Desafio:** Filtrar, categorizar e extrair estatísticas de grandes volumes de dados numéricos mistos.
+* **A Solução Técnica:** Manipulação avançada de sequências através da função `range()` e aplicação do operador de módulo (`%`) para realizar a segregação em tempo real de dados pares e ímpares, criando médias isoladas para cada categoria de forma eficiente.
+
+👉 [**Aceda aqui à Documentação Técnica Completa dos Códigos (PDF)**](./projetos-python.pdf)
 
 ---
 
-## 🎓 Jornada Acadêmica e Formação
+## 🎓 Jornada Académica e Formação Contínua
 
 ### Ensino Superior
-* **Bacharelado em Engenharia de Software** | Centro Universitário de Brasília (CEUB)
-    * *Período:* 2026 - Presente (1° semestre)
-    * *Foco atual:* Lógica de Programação, Algoritmos e Arquitetura de Computadores.
+* **Bacharelato em Engenharia de Software** | Centro Universitário de Brasília (CEUB)
+  * *Período:* 2026 - Presente (A frequentar o 1° semestre)
+  * *Foco de estudo atual:* Lógica de Programação, Construção de Algoritmos, Matemática Discreta e Arquitetura de Computadores.
 
-### Qualificações Complementares
-* **Inteligência Artificial (IA):** Estudo de modelos de linguagem e automação de tarefas.
-* **Processamento de Imagens:** Técnicas de manipulação digital via software livre.
-* **Idiomas:** Inglês (Nível Intermediário - Leitura técnica e escrita).
-
----
-
-## 📈 Habilidades & Soft Skills
-Para além do código, foco em competências que garantem a entrega de projetos com qualidade:
-
-1.  **Análise Estruturada:** Capacidade de decompor problemas complexos em pequenas tarefas executáveis.
-2.  **Comunicação Técnica:** Habilidade em documentar processos e explicar lógicas para diferentes públicos.
-3.  **Flexibilidade Cognitiva:** Adaptação constante a novas ferramentas e linguagens de programação.
-
-[📊 **Ver Apresentação Visual de Habilidades (Canva)**](https://www.canva.com/design/DAHF1Y5vZpM/h_nSjKXd68rTRhDcnz9vPg/view)
+### Qualificações e Extensões
+* **Inteligência Artificial (IA):** Introdução ao uso e integração de modelos de linguagem para otimização de fluxos de trabalho (2026).
+* **Visão Computacional:** Processamento Digital de Imagens com recurso a Software Livre (2026).
+* **Idiomas:** Inglês - Nível Intermediário (Forte capacidade de leitura de documentações técnicas e escrita de código).
 
 ---
 
-## 🤝 Recomendações
-> *"Orlando demonstra um perfil analítico e facilidade na estruturação lógica de algoritmos. Durante as atividades de Engenharia de Software, destaca-se pela aplicação prática de conceitos de Python e pela busca por soluções eficientes para problemas complexos."*
+## 📈 Habilidades Comportamentais (Soft Skills)
+
+Para além do código, o desenvolvimento de software é feito por pessoas e para pessoas. Foco-me em competências essenciais para garantir a entrega de projetos com qualidade e o bom funcionamento em equipa:
+
+1. **Análise Estruturada (Decomposição):** Capacidade de dividir problemas grandes e complexos em pequenos blocos lógicos executáveis.
+2. **Resiliência na Depuração (Debugging):** Paciência e método na identificação de bugs e refatoração de código.
+3. **Comunicação Técnica Clara:** Habilidade para documentar processos, explicar linhas de raciocínio lógico e traduzir requisitos de negócio para o meio técnico.
+4. **Flexibilidade Cognitiva:** Adaptação constante a novos paradigmas, ferramentas e linguagens de programação.
+
+[📊 **Clique aqui para visualizar a minha Apresentação Interativa de Habilidades (Canva)**](https://www.canva.com/design/DAHF1Y5vZpM/h_nSjKXd68rTRhDcnz9vPg/view)
+
+---
+
+## 🤝 Recomendações e Avaliações
+
+> *"O Orlando demonstra um perfil analítico e uma facilidade notável na estruturação lógica de algoritmos. Durante as atividades práticas de Engenharia de Software, destaca-se pela aplicação rigorosa de conceitos de Python e pela busca incessante por soluções eficientes e elegantes para problemas complexos. A sua clareza de comunicação é um diferencial."*
 > 
-> **— Perfil Validado em Atividades Acadêmicas (CEUB, 2026)**
+> **— Perfil Validado em Atividades Acadêmicas de Lógica de Programação (CEUB, 2026)**
 
 ---
 
-## 📞 Contato e Redes
+## 📞 Contacto e Documentação
+
+Sinta-se à vontade para explorar os meus repositórios ou entrar em contacto para oportunidades de estágio e colaboração:
+
 * **📍 Localização:** Brasília - DF
-* **📱 WhatsApp:** (61) 98450-3429
-* **📄 Currículo Atualizado:** [Baixar PDF](./curriculo-orlando.pdf)
+* **📱 Telemóvel / WhatsApp:** (61) 98450-3429
+* **📄 Currículo Atualizado:** [📥 Descarregar Currículo em formato PDF](./curriculo-orlando.pdf)
+
+<br>
 
 <div align="center">
-  <sub>Construído por Orlando César • 2026</sub>
+  <sub>Desenvolvido com dedicação por Orlando César • 2026</sub>
 </div>
