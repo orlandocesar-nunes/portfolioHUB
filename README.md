@@ -1,103 +1,96 @@
-# 🚀 portfolioHUB | Orlando César Nunes de Oliveira
+# portfolioHUB | Orlando César
 
 <div align="center">
-  <img src="eur.jpg" alt="Orlando César" width="160" style="border-radius: 50%; border: 3px solid #007acc;">
-  <h1>Engenharia de Software</h1>
-  <p><i>Desenvolvendo soluções lógicas e explorando os fundamentos da computação</i></p>
-
-  <a href="https://www.linkedin.com/in/orlando-cesar-nunes-de-oliveira-5691033b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:orlandocesar.2006nunes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <img src="eur.jpg" alt="Orlando César" width="150" style="border-radius: 50%;">
+  <br>
+  <strong>Engenharia de Software - CEUB</strong>
 </div>
 
 ---
 
 ## 1. Perfil Pessoal 👤
 
-**Minha Trajetória e Motivação**
-Olá, eu sou o Orlando César. Atualmente, curso o primeiro semestre de Engenharia de Software no **CEUB**, em Brasília. Minha entrada no mundo da programação não foi por acaso; sempre tive uma curiosidade inquieta sobre como sistemas complexos funcionam por baixo do capô. O que me move é a transição do pensamento abstrato para a execução lógica: pegar um problema que parece confuso no papel e transformá-lo em um algoritmo funcional e eficiente.
+**Sobre mim**
+Meu nome é Orlando César, moro em Brasília e estou no meu primeiro semestre de Engenharia de Software no CEUB. Diferente de quem só quer "fazer sites", eu entrei no curso porque gosto de entender a lógica das coisas. Tenho facilidade com sistemas complexos e gosto de passar tempo resolvendo problemas que exigem que a gente pare e pense de verdade antes de sair digitando.
 
-Não busco apenas "fazer o código rodar". Meu foco está em entender o *porquê* de cada linha. Para mim, programar é uma mistura de engenharia e criatividade. Gosto de documentar meus erros tanto quanto meus acertos, pois acredito que a depuração (o famoso *debugging*) é onde o verdadeiro aprendizado acontece. Sou um entusiasta da automação e estou constantemente explorando como a lógica de programação pode simplificar processos do dia a dia.
+Para mim, a programação é uma ferramenta para resolver problemas chatos do dia a dia. Gosto de pesquisar, testar novas ideias e não tenho medo de mudar o caminho se perceber que os dados mostram algo diferente. Na hora de trabalhar com outras pessoas, prezo muito pela clareza: se eu sei explicar o que estou fazendo, o trabalho flui melhor.
 
-**Como me encontrar:**
-* 📧 **E-mail:** [orlandocesar.2006nunes@gmail.com](mailto:orlandocesar.2006nunes@gmail.com)
-* 📍 **Localização:** Brasília - DF
+**Onde me encontrar:**
+* 📧 **E-mail:** orlandocesar.2006nunes@gmail.com
 * 📱 **Telefone:** (61) 98450-3429
-* 💼 **LinkedIn:** [Orlando César Nunes de Oliveira](https://www.linkedin.com/in/orlando-cesar-nunes-de-oliveira-5691033b4/)
+* 💼 **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/orlando-cesar-nunes-de-oliveira-5691033b4/)
 
 ---
 
 ## 2. Currículo 📄
 
-[📥 **Baixe aqui meu currículo completo em PDF**](./curriculo-orlando.pdf)
+[📥 Clique aqui para baixar meu currículo em PDF](./curriculo-orlando.pdf)
 
-### 🎯 Objetivo
-Estou em busca da minha primeira oportunidade como estagiário em Engenharia de Software. Meu objetivo é aplicar minha base em Python e lógica algorítmica em projetos reais, colaborando com equipes que valorizam a documentação bem feita e o código limpo.
+### Objetivo
+Estou focado em conseguir meu primeiro estágio na área de Engenharia de Software. Quero aprender como funciona o ambiente de uma empresa real e aplicar o que já sei de lógica e Python para ajudar o time.
 
-### 🎓 Formação
-* **Bacharelado em Engenharia de Software** | CEUB (Brasília)
-    * *Início:* 2026 (1° semestre).
-    * *Foco acadêmico:* Construção de algoritmos, matemática computacional e fundamentos de hardware/software.
-* **Ensino Médio** | Colégio Batista Windermere (Concluído em 2023).
+### Formação
+* **Engenharia de Software (Bacharelado)** - CEUB
+  * 1° semestre (2026 - Presente).
+* **Ensino Médio** - Colégio Batista Windermere
+  * Concluído em 2023.
 
-### 🛠️ Hard Skills (Competências Técnicas)
-* **Python Avançado (Base):** Domínio de estruturas de decisão (`if/elif/else`), laços de repetição complexos (`while`, `for`, `nested loops`) e manipulação de tipos de dados.
-* **Bibliotecas e Ferramentas:** Uso de bibliotecas nativas do Python, IDEs como Thonny e VS Code, e controle de versão com Git/GitHub.
-* **Lógica de Codificação:** Entendimento de padrões de transporte de dados (Base64) e manipulação de bytes.
+### Habilidades Técnicas
+* **Python:** Sei trabalhar bem com o básico e o intermediário (if/else, loops, tratamento de erros, uso de bibliotecas).
+* **GitHub:** Uso para organizar meus códigos e manter meu portfólio atualizado.
+* **Ferramentas:** Thonny (onde rodo a maioria dos meus testes), VS Code e Markdown.
+* **Idiomas:** Inglês intermediário (consigo ler documentações técnicas sem me perder).
 
 ---
 
 ## 3. Projetos Acadêmicos e Profissionais 💻
 
-Nesta seção, detalho os problemas que resolvi e o raciocínio técnico que utilizei em cada um.
+Aqui é onde coloco o que ando praticando. Não são só exercícios de aula, mas códigos que fiz para entender como a programação funciona na prática.
 
-👉 [🔗 **Veja a documentação detalhada dos códigos aqui**](./projetos_python.pdf)
+### 🚀 Destaque: Codificador Base64 (Projeto Solo)
+Fiz esse programa para entender como os dados viajam pela internet. Muita gente acha que Base64 é criptografia ou senha, mas estudando e fazendo o código, vi que na real é um jeito de "empacotar" o texto em bytes para que ele possa ser lido em qualquer lugar sem dar erro.
+* **O que fiz:** Usei a biblioteca nativa do Python para transformar strings em caracteres legíveis.
+* **O que aprendi:** Aprendi a lidar com conversão de tipos (texto para bytes) e a colocar travas no código para o programa não fechar sozinho se o usuário digitar algo que não faz sentido.
+* **Ferramenta:** Tudo desenvolvido e testado no Thonny.
 
-### 🆕 Projeto Destaque: Codificador e Decodificador Base64
-Este foi meu primeiro projeto solo "fora da caixa" da faculdade. Desenvolvi um software para transformar texto comum em padrão Base64 e vice-versa.
-* **O que aprendi:** Entendi que o Base64 não é criptografia (senha), mas sim uma **codificação** para garantir que dados viajem pela rede sem corromper. 
-* **Técnica utilizada:** Trabalhei com a conversão de strings para bytes (UTF-8), utilizei a biblioteca `base64` do Python e implementei blocos de tratamento de erro para que o programa não trave caso o usuário tente decodificar um código inválido.
-* **Ambiente:** Desenvolvido e testado no Thonny.
+### Calculadora Interativa
+Criei uma calculadora que faz as quatro operações, mas o foco foi a lógica de segurança. Usei estruturas de `if/elif` para que o programa saiba o que fazer se o usuário tentar, por exemplo, dividir um número por zero, que é um erro comum que trava programas simples.
 
-### Projeto: Engine de Análise de Desempenho Escolar
-* **O problema:** Processar notas de uma turma de tamanho desconhecido.
-* **A solução:** Implementei um loop `while True` com uma condição de saída (sentinela). O programa calcula médias aritméticas em tempo real usando acumuladores e contadores, separando aprovados de reprovados com base em critérios lógicos predefinidos.
+### Sistema de Notas e Médias
+Desenvolvi um script que processa as notas de uma turma inteira. Ele usa um laço de repetição (`while`) que só para quando o usuário decide. Ele vai somando tudo, contando quantos alunos passaram e no final entrega a média. É um ótimo exemplo de como usar contadores e acumuladores de dados.
 
-### Projeto: Algoritmo de Filtro e Paridade
-* **O problema:** Analisar grandes listas de números e gerar estatísticas separadas.
-* **A solução:** Usei o operador de módulo (`%`) para identificar paridade e a função `range()` para criar progressões crescentes e decrescentes. O código é capaz de isolar múltiplos de 3 e calcular médias específicas para grupos de números pares e ímpares simultaneamente.
+### Filtro de Números e Paridade
+Um programa que recebe uma lista de números e separa automaticamente o que é par e o que é ímpar usando o operador de resto (`%`). Ele também gera sequências numéricas customizadas (crescentes ou decrescentes) usando a função `range`.
+
+👉 [🔗 Veja o PDF com todos os códigos explicados aqui](./projetos-python.pdf)
 
 ---
 
 ## 4. Habilidades e Competências 🛠️
 
-Abaixo, apresento uma síntese visual das minhas habilidades técnicas e comportamentais. Esta apresentação detalha meu nível de proficiência em cada ferramenta e como aplico meu pensamento analítico nos projetos.
+Criei uma apresentação de slides para mostrar minhas competências de um jeito mais visual. Lá eu falo tanto da parte técnica quanto do meu jeito de trabalhar.
 
-[🎨 **Clique aqui para visualizar meus Slides de Habilidades no Canva**](https://www.canva.com/design/DAHF1Y5vZpM/h_nSjKXd68rTRhDcnz9vPg/view)
+[🎨 **Clique para ver meus Slides de Habilidades**](https://www.canva.com/design/DAHF1Y5vZpM/h_nSjKXd68rTRhDcnz9vPg/view)
 
 ---
 
 ## 5. Recomendações e Testemunhos 🤝
 
-Atualmente, meu desempenho é validado pelo acompanhamento acadêmico no CEUB:
+Ainda estou no começo da carreira, então as recomendações abaixo refletem o meu desempenho nas atividades práticas da faculdade:
 
-> *"Orlando destaca-se pela sua capacidade de decompor problemas complexos. Seus projetos em Python mostram um cuidado especial com o tratamento de erros e com a experiência do usuário final no terminal. É um aluno que demonstra maturidade técnica superior para o primeiro semestre, especialmente na compreensão de como os dados são processados e transportados."*
-> 
-> **— Avaliação de Perfil Acadêmico (CEUB, 2026)**
-
----
-
-## 6. Outros (Conhecimentos Complementares) 📚
-
-* **Inteligência Artificial (IA):** Estudo de como as IAs podem auxiliar na refatoração de código e automação de testes unitários.
-* **Processamento de Imagem:** Noções básicas de como algoritmos manipulam matrizes de pixels para aplicar filtros e correções.
-* **Inglês para Desenvolvedores:** Nível intermediário, com foco total em leitura de documentações oficiais (como a do Python.org) e fóruns técnicos (Stack Overflow).
+> *"O Orlando tem um perfil muito analítico. Nos projetos de Python, ele não se contenta em apenas fazer o código funcionar; ele quer entender a lógica por trás e garantir que o programa seja robusto contra erros. Ele tem facilidade em estruturar algoritmos complexos e se comunica de forma muito clara."*
+>
+> **— Perfil Validado em Atividades Acadêmicas (CEUB, 2026)**
 
 ---
 
+## 6. Outros (Extra) 📚
+
+* **Inteligência Artificial:** Estou estudando como usar IAs (como o ChatGPT) de um jeito inteligente para me ajudar a debugar códigos e aprender conceitos novos mais rápido.
+* **Processamento de Imagens:** Já tive contato com manipulação de imagens em software livre, entendendo como o computador processa dados visuais.
+* **Eventos:** Gosto de acompanhar o que rola de novo no mercado de TI para não ficar parado no tempo.
+
+---
 <div align="center">
-  <sub>Criado por Orlando César | portfolioHUB • 2026</sub>
+  <sub>Orlando César • 2026</sub>
 </div>
