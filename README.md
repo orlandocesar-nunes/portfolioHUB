@@ -1,6 +1,6 @@
 # portfolioHUB
 
-<img src="eur.jpg" alt="Foto Profissional" width="150" style="border-radius: 50%;">
+<img src="eur.jpg" alt="Foto Profissional" width="150" style="border-radius: 50%;"> Orlando César Nunes de Oliveira
 
 ## 👤 Perfil Pessoal
 
@@ -60,3 +60,9 @@ Aqui apresento um resumo das minhas principais competências técnicas (Hard Ski
 [🎨 **Clique aqui para visualizar a minha apresentação de Habilidades e Competências**](https://www.canva.com/design/DAHF1Y5vZpM/h_nSjKXd68rTRhDcnz9vPg/view)
 
 ---
+
+## 🤝 Recomendações e Testemunhos
+
+> *"Orlando demonstra um perfil analítico e facilidade na estruturação lógica de algoritmos. Durante as atividades de Engenharia de Software, destaca-se pela aplicação prática de conceitos de Python e pela busca por soluções eficientes para problemas complexos."*
+> 
+> **— Perfil Validado em Atividades Acadêmicas (CEUB, 2026)**
