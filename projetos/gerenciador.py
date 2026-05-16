@@ -1,8 +1,6 @@
 import os
 
-# Estrutura de dados para armazenar as tarefas (uma lista de dicionários)
 tarefas = []
-# Contador global para gerar IDs únicos e sequenciais
 proximo_id = 1
 
 def limpar_tela():
@@ -81,9 +79,6 @@ def remover_tarefa():
     except ValueError:
         print("⚠️ Erro: Por favor, digite um número de ID válido.")
 
-# =========================================
-#             MENU PRINCIPAL
-# =========================================
 print("=========================================")
 print(" 📝📝📝 SISTEMA DE TO-DO LIST 📝📝📝 ")
 print("=========================================")
