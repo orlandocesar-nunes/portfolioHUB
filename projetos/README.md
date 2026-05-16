@@ -27,5 +27,10 @@ Processador em lote para cálculo de médias escolares.
 Algoritmo de separação e estruturação de dados numéricos.
 * **Lógica aplicada:** Operador de módulo matemático (`%`) para teste de paridade e uso da função `range()` para geração automatizada de listas crescentes e decrescentes.
 
+### 5. Gerenciador de Tarefas - To-Do List (gerenciador_tarefas.py)
+
+Um aplicativo de terminal completo para organizar o dia a dia, permitindo criar, visualizar, marcar como concluída e remover tarefas.
+* **Lógica aplicada:** Uso intensivo de Dicionários para estruturar os dados da tarefa (ID, descrição, status) e Listas para armazenar o conjunto. Demonstra o conceito de CRUD básico e utiliza tratamento de exceções (`try/except`) para validar a entrada de IDs numéricos.
+
 ---
 *Documentação mantida e versionada por Orlando César.*
