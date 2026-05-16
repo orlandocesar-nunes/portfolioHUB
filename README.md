@@ -54,23 +54,24 @@ Estou em busca da minha primeira oportunidade profissional como estagiário na �
 
 ## 3. Projetos Acadêmicos e Profissionais 💻
 
-Mais do que apenas listas de exercícios, os projetos abaixo representam desafios práticos onde pude testar lógicas reais. 
+👉 [🔗 **Clique aqui para acessar o repositório oficial com todos os códigos-fonte no GitHub**](https://github.com/orlandocesar-nunes/portfolioHUB/tree/main/projetos)
 
-👉 [🔗 **Clique aqui para acessar a documentação técnica e o código-fonte no PDF**](./projetos_python.pdf)
-
-### 🚀 Projeto Solo: Codificador e Decodificador Base64
-Este foi meu primeiro projeto autônomo, criado para ir além da sala de aula e entender como os dados trafegam pela rede. Desenvolvi um programa capaz de converter mensagens de texto comuns para o padrão Base64 e fazer o caminho inverso. Tudo foi construído e testado no ambiente do Thonny.
+### 🚀 Projeto: Codificador e Decodificador Base64 (base64_converter.py)
+Este foi meu primeiro projeto autônomo, criado para ir além da sala de aula e entender como os dados trafegam pela rede. Desenvolvi um programa capaz de converter mensagens de texto comuns para o padrão Base64 e fazer o caminho inverso. Tudo foi construído e testado no ambiente do Thonny e VS Code.
 * **A grande lição:** Descobri na prática que Base64 não é criptografia (não esconde a informação como uma senha), mas sim um formato de *codificação*. Ele serve para empacotar o texto de um jeito seguro para que viaje pela rede sem corromper a leitura, mantendo os caracteres sempre legíveis.
 * **Implementação técnica:** Utilizei bibliotecas nativas do Python para não depender de instalações externas. Trabalhei diretamente com a conversão de strings para o formato de *bytes* e implementei blocos de tratamento de erro para garantir que, se o usuário digitar uma string inválida na hora de decodificar, o programa exiba um aviso amigável em vez de fechar abruptamente.
 
-### Calculadora Interativa e Tratamento de Exceções
+### 🧮 Calculadora Interativa e Tratamento de Exceções (calculadora.py)
 Criei um sistema de cálculos matemáticos no terminal. O foco técnico desse projeto foi a robustez. Utilizando estruturas condicionais encadeadas (`if/elif/else`), criei travas de segurança na lógica. Por exemplo, o código identifica tentativas de divisão por zero e bloqueia a operação, evitando o travamento do sistema.
 
-### Engine de Análise de Desempenho Escolar
+### 📊 Engine de Análise de Desempenho Escolar (sistema_notas.py)
 Desenvolvi um script de processamento em lote. O programa permite inserir notas de uma turma inteira através de um loop infinito (`while True`). A sacada lógica foi implementar um "sentinela" (uma condição de parada específica, como digitar -1) para interromper o laço. Nos bastidores, o código usa variáveis como acumuladores e contadores para calcular a média final e a taxa de aprovação em tempo real.
 
-### Filtro Analítico de Sequências e Paridade
+### 🔢 Filtro Analítico de Sequências e Paridade (filtro_numeros.py)
 Um programa voltado para estruturação de dados. Ele recebe valores e utiliza o operador de módulo (`%`) para separar matematicamente o que é par do que é ímpar. Também implementei a função `range()` para gerar progressões numéricas ordenadas, conseguindo extrair médias isoladas apenas de grupos específicos de números.
+
+### 📝 Gerenciador de Tarefas - To-Do List (gerenciador_tarefas.py)
+Um aplicativo de terminal completo para organizar o dia a dia, permitindo criar, visualizar, marcar como concluída e remover tarefas. Demonstra o conceito de CRUD básico (Create, Read, Update, Delete) e utiliza estruturas complexas como listas e dicionários para manipular os dados dinamicamente, além de validações robustas com `try/except`.
 
 ---
 
