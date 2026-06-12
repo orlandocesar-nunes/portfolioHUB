@@ -1,8 +1,6 @@
 import os
 
-# Estrutura de dados para armazenar as tarefas (uma lista de dicionários)
 tarefas = []
-# Contador global para gerar IDs únicos e sequenciais
 proximo_id = 1
 
 def limpar_tela():
@@ -25,7 +23,7 @@ def adicionar_tarefa():
         print(f"✔️ Tarefa '{descricao}' adicionada com ID {proximo_id}.")
         proximo_id += 1
     else:
-        print("⚠️ Erro: A descrição da tarefa não pode estar vazia.")
+        print("Erro: A descrição da tarefa não pode estar vazia.")
 
 def visualizar_tarefas():
     """Exibe todas as tarefas cadastradas e seus status."""
@@ -33,7 +31,6 @@ def visualizar_tarefas():
     if not tarefas:
         print("Sua lista está vazia. Adicione uma tarefa!")
     else:
-        # Define a largura das colunas para formatação
         print(f"{'ID':<5} | {'Status':<10} | {'Descrição'}")
         print("-" * 50)
         for t in tarefas:
