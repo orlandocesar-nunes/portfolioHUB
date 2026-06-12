@@ -78,9 +78,6 @@ def remover_tarefa():
     except ValueError:
         print("⚠️ Erro: Por favor, digite um número de ID válido.")
 
-# =========================================
-#             MENU PRINCIPAL
-# =========================================
 print("=========================================")
 print(" 📝📝📝 SISTEMA DE TO-DO LIST 📝📝📝 ")
 print("=========================================")
